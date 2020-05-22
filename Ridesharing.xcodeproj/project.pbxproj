@@ -1712,7 +1712,7 @@
 					"@executable_path/Frameworks",
 				);
 				MODULE_NAME = Rider;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hypertrack.ridesharing.rider.ios.github;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepkick.ridesharing.rider.ios.github;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1765,7 +1765,7 @@
 					"@executable_path/Frameworks",
 				);
 				MODULE_NAME = Rider;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hypertrack.ridesharing.rider.ios.github;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepkick.ridesharing.rider.ios.github;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -2363,7 +2363,7 @@
 					"@executable_path/Frameworks",
 				);
 				MODULE_NAME = Driver;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hypertrack.ridesharing.driver.ios.github;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepkick.ridesharing.driver.ios.github;
 				PRODUCT_NAME = Driver;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG HYPERTRACK";
 				SWIFT_VERSION = 5.0;
@@ -2418,7 +2418,7 @@
 					"@executable_path/Frameworks",
 				);
 				MODULE_NAME = Driver;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hypertrack.ridesharing.driver.ios.github;
+				PRODUCT_BUNDLE_IDENTIFIER = com.deepkick.ridesharing.driver.ios.github;
 				PRODUCT_NAME = Driver;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

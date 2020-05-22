@@ -7,7 +7,7 @@ import MapKit
 import SwiftUI
 import UIKit
 
-public let publishableKey: String = <#Paste your publishable key here#>
+public let publishableKey: String = "lmuZRtUu_7nWj9W5oXr6Az__BmyK4JavafqaHGHRP23NiTq6_FZ4l0yla06JagjO-5I1DEQwLVgK7ytZ3V_8Xw"
 
 /// Instance for observing Applications life-cycle notification events
 public let appStateReceiver: ApplicationStateReceiver =
